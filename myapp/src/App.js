@@ -1,11 +1,11 @@
 import React from 'react';
-import GeoLocation from './components/GeoLocation';
+import Counter from './components/counter/Counter';
 
 
 const App = () => {
   return (
     <div>
-      <GeoLocation />
+      <Counter />
     </div>
   );
 };
